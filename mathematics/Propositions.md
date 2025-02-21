@@ -24,7 +24,7 @@
 - Letters are usually used to represent propositions. Ex.: P, Q, R, S, T, etc.
 - They can be uppercase or lowercase.
 - Examples:
-	- P: 2+4=6
+	- P: 2+4=6.
 	- Q: John's house is yellow.
 	- R: An even number is divisible by 2.
 
